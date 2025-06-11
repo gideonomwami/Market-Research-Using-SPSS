@@ -9,4 +9,7 @@ This project aims to evaluate the effectiveness of these social media advertisem
 -	Evaluate the impact of social media ad exposure on the frequency of Uber Eats usage among customers across different regions in Kenya.
 -	Analyze the relationship between ad exposure and customer spending behavior, including average spend per order and total monthly expenditure.
 -	Assess regional and demographic differences in response to Uber Eats’ national marketing campaign to identify high engagement segments.
+# Data Analysis
+This section perform and interpret Descriptive Statistics and Infrential Statistics in SPSS for your Uber Eats marketing survey t access the impact of social media ads on the usage of Uber eats accross the country.
+
 
