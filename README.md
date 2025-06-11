@@ -11,5 +11,7 @@ This project aims to evaluate the effectiveness of these social media advertisem
 -	Assess regional and demographic differences in response to Uber Eats’ national marketing campaign to identify high engagement segments.
 # Data Analysis
 This section perform and interpret Descriptive Statistics and Infrential Statistics in SPSS for your Uber Eats marketing survey t access the impact of social media ads on the usage of Uber eats accross the country.
-
-
+## Descriptive Statistics
+Descriptive statistics help summarize and describe the basic features of the data in your study.
+## Distribution of Gender of the Customers
+![image](https://github.com/user-attachments/assets/633611c9-cad8-4b0c-8bbe-fbe3daaebe3a)
