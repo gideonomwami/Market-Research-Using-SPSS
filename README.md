@@ -18,7 +18,7 @@ This project aims to evaluate the effectiveness of these social media advertisem
 
 # Data Analysis
 This section perform and interpret Descriptive Statistics and Infrential Statistics in SPSS for your Uber Eats marketing survey t access the impact of social media ads on the usage of Uber eats accross the country.
-## Descriptive Statistics
+# Descriptive Statistics
 Descriptive statistics help summarize and describe the basic features of the data in your study.
 ## Distribution of Gender of the Customers
 A total of 3,578 respondents participated in the Uber Eats Market Research Survey. As shown, the majority of respondents identified as male (n = 1,931, 54.0%), followed by female respondents (n = 1,622, 45.3%). A small proportion of respondents identified as other or preferred not to disclose their gender (n = 25, 0.7%).
@@ -30,4 +30,34 @@ The Uber Eats Market Research Survey was completed by 3,578 respondents from var
 
 ![image](https://github.com/user-attachments/assets/4d5ae62c-2560-4a75-bab9-637fa7d788f0)
 
+## Ads Exposed vs Not Exposed
+Among the 3,578 Uber Eats survey respondents, 2,351 (65.7%) reported being exposed to advertising, while 1,227 (34.3%) indicated no exposure. Exposure was measured across various platforms including Facebook, Instagram, TikTok, Twitter, YouTube, and others.
+
+![image](https://github.com/user-attachments/assets/b3d21f60-77d6-465d-a0be-92999a74beb2)
+
+## Social Media Advertising Platform Distribution
+Respondents who were exposed to Uber Eats advertisements (n = 2,351) reported encountering ads across a range of social media platforms. As shown, the most frequently cited platform was Facebook (n = 689, 29.3% of total respondents), followed by Instagram (n = 609, 25.6%), TikTok (n = 449, 18.7%), Twitter (n = 368, 15.4%), and YouTube (n = 236, 9.9%).
+
+![image](https://github.com/user-attachments/assets/2ef8cb81-75fa-4ee1-85ce-79722b6af257)
+
+# Inferential statistics  
+To draw conclusions beyond the descriptive data, inferential statistical analyses were conducted to examine the relationships between key variables related to Uber Eats user behavior. Specifically, the study aimed to determine whether exposure to advertisements influenced frequency of use, satisfaction levels, and total spending on the platform. Pearson correlation analysis was used to assess the strength and direction of linear relationships between variables, while independent samples t-tests were employed to compare mean differences between users who were exposed to advertisements and those who were not. In addition, linear regression analysis was conducted to predict the effect of advertisement exposure on total spending behavior. All tests were conducted at a 95% confidence level (α = .05).
+
+## Corelation Statistics 
+A Pearson product-moment correlation was conducted to examine the relationships between advertisement exposure, frequency of use, and satisfaction score. Results indicated a moderate, positive correlation between advertisement exposure and frequency of use, r(3576) = .472, p < .001, suggesting that individuals exposed to Uber Eats ads tended to use the service more frequently.
+
+There was no significant correlation between advertisement exposure and satisfaction score, r(3576) = –.011, p = .525. Similarly, the relationship between frequency of use and satisfaction score was weak and non-significant, r(3576) = .016, p = .328.
+
+Correlations
+	Ad Exposed	Frequency_of_Use	Satisfaction_Score
+Ad Exposed	Pearson Correlation	1	.472**	-.011
+	Sig. (2-tailed)		.000	.525
+	N	3578	3578	3578
+Frequency_of_Use	Pearson Correlation	.472**	1	.016
+	Sig. (2-tailed)	.000		.328
+	N	3578	3578	3578
+Satisfaction_Score	Pearson Correlation	-.011	.016	1
+	Sig. (2-tailed)	.525	.328	
+	N	3578	3578	3578
+**. Correlation is significant at the 0.01 level (2-tailed).
 
