@@ -71,3 +71,15 @@ A simple linear regression was conducted to examine whether exposure to advertis
 
 ![image](https://github.com/user-attachments/assets/33a2c758-c084-4bee-b8be-0ee135aa1959)
 
+The regression coefficient for advertisement exposure was significant, B = 2,111.18, SE = 63.86, t = 33.06, p < .001, indicating that being exposed to advertisements was associated with an average increase of KES 2,111.18 in total Uber Eats spending.
+
+![image](https://github.com/user-attachments/assets/c147650c-d232-418b-8082-ea6d7e6dd032)
+
+These results suggest that advertisement exposure is a strong and significant predictor of customer spending, highlighting the effectiveness of marketing in influencing purchasing behavior on the Uber Eats platform.
+
+# Recommendations
+- Increase targeted advertising in Nairobi and the Coast to maximize ROI.
+- Focus campaigns on Facebook, Instagram, and TikTok, especially among 18–35-year-olds.
+- Implement region-specific ad strategies for underperforming zones like Western and Eastern regions.
+- Use retargeting ads to reinforce brand loyalty in frequent users.
+- Integrate customer feedback to improve satisfaction independently from marketing.
