@@ -40,8 +40,6 @@ Respondents who were exposed to Uber Eats advertisements (n = 2,351) reported en
 
 ![image](https://github.com/user-attachments/assets/a0f6376d-7561-4e02-b657-2cbbbb75a6e5)
 
-![image](https://github.com/user-attachments/assets/2ef8cb81-75fa-4ee1-85ce-79722b6af257)
-
 # Inferential statistics  
 To draw conclusions beyond the descriptive data, inferential statistical analyses were conducted to examine the relationships between key variables related to Uber Eats user behavior. Specifically, the study aimed to determine whether exposure to advertisements influenced frequency of use, satisfaction levels, and total spending on the platform. Pearson correlation analysis was used to assess the strength and direction of linear relationships between variables, while independent samples t-tests were employed to compare mean differences between users who were exposed to advertisements and those who were not. In addition, linear regression analysis was conducted to predict the effect of advertisement exposure on total spending behavior. All tests were conducted at a 95% confidence level (α = .05).
 
