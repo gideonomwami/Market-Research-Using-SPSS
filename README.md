@@ -32,9 +32,8 @@ The Uber Eats Market Research Survey was completed by 3,578 respondents from var
 
 ## Ads Exposed vs Not Exposed
 Among the 3,578 Uber Eats survey respondents, 2,351 (65.7%) reported being exposed to advertising, while 1,227 (34.3%) indicated no exposure. Exposure was measured across various platforms including Facebook, Instagram, TikTok, Twitter, YouTube, and others.
-![image](https://github.com/user-attachments/assets/ef95ec7d-d290-4333-b93b-d193488a007e)
 
-![image](https://github.com/user-attachments/assets/b3d21f60-77d6-465d-a0be-92999a74beb2)
+![image](https://github.com/user-attachments/assets/b5452425-05a8-4a4a-9f87-0e4c6c5c9328)
 
 ## Social Media Advertising Platform Distribution
 Respondents who were exposed to Uber Eats advertisements (n = 2,351) reported encountering ads across a range of social media platforms. As shown, the most frequently cited platform was Facebook (n = 689, 29.3% of total respondents), followed by Instagram (n = 609, 25.6%), TikTok (n = 449, 18.7%), Twitter (n = 368, 15.4%), and YouTube (n = 236, 9.9%).
