@@ -64,7 +64,7 @@ There was a statistically significant difference in frequency of use between use
 Total Spending
 Similarly, a significant difference was observed in total spending between the two groups, t(3576) = –33.06, p < .001. Those exposed to advertisements spent significantly more on Uber Eats (M = higher), with a mean difference of –KES 2,111.18 (SE = 63.86), 95% CI [–2,236.38, –1,985.98].
 
-![image](https://github.com/user-attachments/assets/85a0a028-e109-49b6-bd0d-01f1817cde1a)
+![image](https://github.com/user-attachments/assets/575f060e-7bfd-4424-96b3-43eb9159c1f9)
 
 ## Regression Analysis
 A simple linear regression was conducted to examine whether exposure to advertisements significantly predicted total spending on Uber Eats. The results indicated that the model was statistically significant, F(1, 3576) = 1,092.97, p < .001, and accounted for approximately 23.4% of the variance in total spending, R² = .234.
