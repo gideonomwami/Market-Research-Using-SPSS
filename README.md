@@ -86,3 +86,6 @@ These results suggest that advertisement exposure is a strong and significant pr
 # Conclusion
 The Uber Eats market research confirms that advertising positively impacts customer frequency and spending. However, satisfaction is influenced by other factors beyond advertising. A data-driven approach targeting responsive regions and age groups can enhance market performance and revenue.
 
+![image](https://github.com/user-attachments/assets/06bda3df-5f32-4cc0-b51a-1c333a7f2590)
+
+
