@@ -25,8 +25,10 @@ A total of 3,578 respondents participated in the Uber Eats Market Research Surve
 
 ![image](https://github.com/user-attachments/assets/ff2fcff5-cd2e-4280-8c2d-8cde33604c41)
 
-## Regional Distribution of Respondents
+## Regional Distribution of Customers
 The Uber Eats Market Research Survey was completed by 3,578 respondents from various regions in Kenya. The bar chart presents the distribution of respondents by region. Nairobi had the highest representation (n = 1,326, 37.1%), followed by the Coast (n = 729, 20.4%) and Rift Valley (n = 713, 19.9%). The regions with the lowest representation were Western (n = 153, 4.3%), Eastern (n = 160, 4.5%), and Central (n = 163, 4.6%).
+
+![image](https://github.com/user-attachments/assets/e2da7bf9-28c9-4ff5-88d1-94eeba2d6ec2)
 
 ![image](https://github.com/user-attachments/assets/4d5ae62c-2560-4a75-bab9-637fa7d788f0)
 
