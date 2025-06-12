@@ -83,3 +83,6 @@ These results suggest that advertisement exposure is a strong and significant pr
 - Implement region-specific ad strategies for underperforming zones like Western and Eastern regions.
 - Use retargeting ads to reinforce brand loyalty in frequent users.
 - Integrate customer feedback to improve satisfaction independently from marketing.
+# Conclusion
+The Uber Eats market research confirms that advertising positively impacts customer frequency and spending. However, satisfaction is influenced by other factors beyond advertising. A data-driven approach targeting responsive regions and age groups can enhance market performance and revenue.
+
