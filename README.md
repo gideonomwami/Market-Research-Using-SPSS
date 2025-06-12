@@ -21,6 +21,9 @@ This section perform and interpret Descriptive Statistics and Infrential Statist
 ## Descriptive Statistics
 Descriptive statistics help summarize and describe the basic features of the data in your study.
 ## Distribution of Gender of the Customers
+A total of 3,578 respondents participated in the Uber Eats Market Research Survey. As shown, the majority of respondents identified as male (n = 1,931, 54.0%), followed by female respondents (n = 1,622, 45.3%). A small proportion of respondents identified as other or preferred not to disclose their gender (n = 25, 0.7%).
+![image](https://github.com/user-attachments/assets/5a0c6706-a204-45db-b3fb-accdf1382daa)
+
 
 
 
