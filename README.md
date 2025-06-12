@@ -10,6 +10,11 @@ This project aims to evaluate the effectiveness of these social media advertisem
 -	Analyze the relationship between ad exposure and customer spending behavior, including average spend per order and total monthly expenditure.
 -	Assess regional and demographic differences in response to Uber Eats’ national marketing campaign to identify high engagement segments.
 ## Key Findings of the Survey
+- Nairobi is the largest Uber Eats consumer base.
+- Digital ads, especially on Facebook and Instagram, are effective in increasing usage and spending.
+- The 26–35 age group is most responsive to marketing.
+- Ad exposure significantly increases spending, as proven by both t-test and regression results.
+- Satisfaction levels are not directly influenced by ad exposure.
 
 # Data Analysis
 This section perform and interpret Descriptive Statistics and Infrential Statistics in SPSS for your Uber Eats marketing survey t access the impact of social media ads on the usage of Uber eats accross the country.
@@ -17,6 +22,5 @@ This section perform and interpret Descriptive Statistics and Infrential Statist
 Descriptive statistics help summarize and describe the basic features of the data in your study.
 ## Distribution of Gender of the Customers
 
-![image](https://github.com/user-attachments/assets/76fd9079-0d4e-4734-bb40-08af5c35594a)
 
 
