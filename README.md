@@ -48,16 +48,5 @@ A Pearson product-moment correlation was conducted to examine the relationships 
 
 There was no significant correlation between advertisement exposure and satisfaction score, r(3576) = –.011, p = .525. Similarly, the relationship between frequency of use and satisfaction score was weak and non-significant, r(3576) = .016, p = .328.
 
-Correlations
-	Ad Exposed	Frequency_of_Use	Satisfaction_Score
-Ad Exposed	Pearson Correlation	1	.472**	-.011
-	Sig. (2-tailed)		.000	.525
-	N	3578	3578	3578
-Frequency_of_Use	Pearson Correlation	.472**	1	.016
-	Sig. (2-tailed)	.000		.328
-	N	3578	3578	3578
-Satisfaction_Score	Pearson Correlation	-.011	.016	1
-	Sig. (2-tailed)	.525	.328	
-	N	3578	3578	3578
-**. Correlation is significant at the 0.01 level (2-tailed).
+![image](https://github.com/user-attachments/assets/fb6445f5-1b00-42f0-95c9-43c4728c37f6)
 
