@@ -22,9 +22,8 @@ This section perform and interpret Descriptive Statistics and Infrential Statist
 Descriptive statistics help summarize and describe the basic features of the data in your study.
 ## Distribution of Gender of the Customers
 A total of 3,578 respondents participated in the Uber Eats Market Research Survey. As shown, the majority of respondents identified as male (n = 1,931, 54.0%), followed by female respondents (n = 1,622, 45.3%). A small proportion of respondents identified as other or preferred not to disclose their gender (n = 25, 0.7%).
-![image](https://github.com/user-attachments/assets/ff2fcff5-cd2e-4280-8c2d-8cde33604c41)
 
-![image](https://github.com/user-attachments/assets/5a0c6706-a204-45db-b3fb-accdf1382daa)
+![image](https://github.com/user-attachments/assets/ff2fcff5-cd2e-4280-8c2d-8cde33604c41)
 
 ## Regional Distribution of Respondents
 The Uber Eats Market Research Survey was completed by 3,578 respondents from various regions in Kenya. The bar chart presents the distribution of respondents by region. Nairobi had the highest representation (n = 1,326, 37.1%), followed by the Coast (n = 729, 20.4%) and Rift Valley (n = 713, 19.9%). The regions with the lowest representation were Western (n = 153, 4.3%), Eastern (n = 160, 4.5%), and Central (n = 163, 4.6%).
