@@ -27,7 +27,6 @@ A total of 3,578 respondents participated in the Uber Eats Market Research Surve
 
 ## Regional Distribution of Respondents
 The Uber Eats Market Research Survey was completed by 3,578 respondents from various regions in Kenya. The bar chart presents the distribution of respondents by region. Nairobi had the highest representation (n = 1,326, 37.1%), followed by the Coast (n = 729, 20.4%) and Rift Valley (n = 713, 19.9%). The regions with the lowest representation were Western (n = 153, 4.3%), Eastern (n = 160, 4.5%), and Central (n = 163, 4.6%).
-![image](https://github.com/user-attachments/assets/a0f6376d-7561-4e02-b657-2cbbbb75a6e5)
 
 ![image](https://github.com/user-attachments/assets/4d5ae62c-2560-4a75-bab9-637fa7d788f0)
 
@@ -38,6 +37,8 @@ Among the 3,578 Uber Eats survey respondents, 2,351 (65.7%) reported being expos
 
 ## Social Media Advertising Platform Distribution
 Respondents who were exposed to Uber Eats advertisements (n = 2,351) reported encountering ads across a range of social media platforms. As shown, the most frequently cited platform was Facebook (n = 689, 29.3% of total respondents), followed by Instagram (n = 609, 25.6%), TikTok (n = 449, 18.7%), Twitter (n = 368, 15.4%), and YouTube (n = 236, 9.9%).
+
+![image](https://github.com/user-attachments/assets/a0f6376d-7561-4e02-b657-2cbbbb75a6e5)
 
 ![image](https://github.com/user-attachments/assets/2ef8cb81-75fa-4ee1-85ce-79722b6af257)
 
