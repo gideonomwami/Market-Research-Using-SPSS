@@ -40,6 +40,11 @@ Respondents who were exposed to Uber Eats advertisements (n = 2,351) reported en
 
 ![image](https://github.com/user-attachments/assets/a0f6376d-7561-4e02-b657-2cbbbb75a6e5)
 
+## Regional Satisfaction Rates 
+Overall, satisfaction scores across regions were relatively high, indicating generally positive user experiences with Uber Eats. Nairobi and Coast reported the highest satisfaction scores, suggesting more favorable service or customer engagement in those areas.
+
+![image](https://github.com/user-attachments/assets/9bfa7b9c-41eb-40f8-926d-b80af7f538a2)
+
 # Inferential statistics  
 To draw conclusions beyond the descriptive data, inferential statistical analyses were conducted to examine the relationships between key variables related to Uber Eats user behavior. Specifically, the study aimed to determine whether exposure to advertisements influenced frequency of use, satisfaction levels, and total spending on the platform. Pearson correlation analysis was used to assess the strength and direction of linear relationships between variables, while independent samples t-tests were employed to compare mean differences between users who were exposed to advertisements and those who were not. In addition, linear regression analysis was conducted to predict the effect of advertisement exposure on total spending behavior. All tests were conducted at a 95% confidence level (α = .05).
 
@@ -49,4 +54,20 @@ A Pearson product-moment correlation was conducted to examine the relationships 
 There was no significant correlation between advertisement exposure and satisfaction score, r(3576) = –.011, p = .525. Similarly, the relationship between frequency of use and satisfaction score was weak and non-significant, r(3576) = .016, p = .328.
 
 ![image](https://github.com/user-attachments/assets/fb6445f5-1b00-42f0-95c9-43c4728c37f6)
+
+## Independent Sample T test 
+Independent samples t-tests were conducted to compare frequency of use and total spending between respondents who were exposed to advertisements and those who were not.
+
+Frequency of Use
+There was a statistically significant difference in frequency of use between users exposed to advertisements (M = higher) and those not exposed, t(3576) = –32.02, p < .001. The mean difference was –2.08 (SE = 0.065), indicating that ad-exposed users reported using Uber Eats more frequently.
+
+Total Spending
+Similarly, a significant difference was observed in total spending between the two groups, t(3576) = –33.06, p < .001. Those exposed to advertisements spent significantly more on Uber Eats (M = higher), with a mean difference of –KES 2,111.18 (SE = 63.86), 95% CI [–2,236.38, –1,985.98].
+
+![image](https://github.com/user-attachments/assets/85a0a028-e109-49b6-bd0d-01f1817cde1a)
+
+## Regression Analysis
+A simple linear regression was conducted to examine whether exposure to advertisements significantly predicted total spending on Uber Eats. The results indicated that the model was statistically significant, F(1, 3576) = 1,092.97, p < .001, and accounted for approximately 23.4% of the variance in total spending, R² = .234.
+
+![image](https://github.com/user-attachments/assets/33a2c758-c084-4bee-b8be-0ee135aa1959)
 
